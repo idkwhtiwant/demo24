@@ -30,21 +30,25 @@ ISP
 vim etc/hostname
 ```
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/ddd5260c-2a5d-45dd-bc64-72faf798e2b4)
+
 HQ-R
 ```
 vim etc/hostname
 ```
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/f8b8f92f-df1a-4325-b970-a844c6e98a38)
+
 BR-R
 ```
 vim etc/hostname
 ```
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/419cb478-9c0c-4115-8982-41763e78f9a9)
+
 HR-SRV
 ```
 vim etc/hostname
 ```
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/94b85b5f-1d74-47c7-a55c-4c84088d4cf9)
+
 BR-SRV
 ```
 vim etc/hostname
