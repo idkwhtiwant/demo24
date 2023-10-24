@@ -27,10 +27,6 @@
 
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/74aa2495-7847-49b5-9319-522013b3bee4)
 
-
-![image](https://github.com/idkwhtiwant/demo24/assets/105741255/3f1c1764-2198-432c-ba10-2f2d2720c0b2)
-
-
 ## 2. Имена хостов в созданных ВМ должны быть установлены в соответствии со схемой.
 ISP
 ```
