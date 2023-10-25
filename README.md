@@ -41,6 +41,8 @@ nano etc/hostname
 ![image](https://github.com/idkwhtiwant/demo24/assets/105741255/a7e0f5d9-bff2-413d-a6d2-fd0a657b8913)
 
 ### 3. Настройка IP-адресов на интерфейсах виртуальных машин в соответствии с **`Таблицей 1`**.
-
-
+Настройка интерфейсов происходит в файле **`/etc/networking/interfaces`**. 
+```
+nano /etc/networking/interfaces
+```
 
