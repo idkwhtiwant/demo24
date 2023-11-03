@@ -1,6 +1,6 @@
 # DEMO2024
 ## Модуль 1.
-![image](https://github.com/idkwhtiwant/demo24/assets/105741255/f105c1d1-cf0b-441a-82a3-11aad8d109f3)
+![image](https://github.com/idkwhtiwant/demo24/assets/105741255/684be58e-0e2d-48fb-859e-b9369e5c4853)
 
 ## Виртуальные машины и коммутация.
 Необходимо выполнить создание и базовую конфигурацию виртуальных машин. Все виртуальные машины должны работать на OC Linux - Debian.
